@@ -1,0 +1,13 @@
+C:\Users\Ella\Desktop\ExtendedTextBox\bin\Debug\ExtendedTextBox.exe.config
+C:\Users\Ella\Desktop\ExtendedTextBox\bin\Debug\ExtendedTextBox.exe
+C:\Users\Ella\Desktop\ExtendedTextBox\bin\Debug\ExtendedTextBox.pdb
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\MainWindow.g.cs
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\App.g.cs
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox_MarkupCompile.cache
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox_MarkupCompile.lref
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\MainWindow.baml
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox.g.resources
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox.Properties.Resources.resources
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox.csproj.GenerateResource.Cache
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox.exe
+C:\Users\Ella\Desktop\ExtendedTextBox\obj\Debug\ExtendedTextBox.pdb
